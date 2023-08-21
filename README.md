@@ -1,4 +1,4 @@
-<img src="snake.yml" />
+<img src="github-contribution-grid-snake-dark.svg" />
 
 ###
 
