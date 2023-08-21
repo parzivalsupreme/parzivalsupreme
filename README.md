@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/parzivalsupreme/parzivalsupreme/output/snake.svg" alt="Snake animation" />
+<img src="snake.yml" />
 
 ###
 
