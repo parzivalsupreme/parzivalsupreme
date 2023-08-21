@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">One must still have chaos in oneself to be able to give birth to a dancing star. <br>— Friedrich Nietzsche</p>
+<q align="left">One must still have chaos in oneself to be able to give birth to a dancing star.</q> <br><p>— Friedrich Nietzsche</p>
 
 ###
 
