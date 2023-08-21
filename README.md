@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">One must have chaos in oneself to give birth to a dancing star <br>— Friedrich Nietzsche</p>
+<p align="left">One must still have chaos in oneself to be able to give birth to a dancing star. <br>— Friedrich Nietzsche</p>
 
 ###
 
