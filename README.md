@@ -8,7 +8,7 @@
 
 ###
 
-<q align="left">Imagination governs the world..</q> <br><p>— Napoleon Bonaparte</p>
+<q align="left">Imagination governs the world.</q> <br><p>— Napoleon Bonaparte</p>
 
 ###
 
