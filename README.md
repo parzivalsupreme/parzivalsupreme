@@ -2,12 +2,6 @@
 
 ###
 
-<h1 align="left">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Elijah</h1>
-
-###
-
-###
-
 <q align="left">Imagination governs the world.</q> <br><p>— Napoleon Bonaparte</p>
 
 ###
