@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <a href="https://twitter.com/ElijahCaesar4" target="_blank">
+  <a href="https://twitter.com/ElijahSezar" target="_blank">
     <img src="Twitter-X-White-Logo-PNG-removebg-preview.png" width="75" height="40" alt="twitter logo"  />
   </a>
   <a href="https://www.linkedin.com/in/elijah-macabenlar-a36b5524a/" target="_blank">
