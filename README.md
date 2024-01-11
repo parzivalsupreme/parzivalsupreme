@@ -1,10 +1,6 @@
 <img src="github-contribution-grid-snake-dark.svg" />
 
-###
 
-<q align="left">Imagination governs the world.</q> <br><p>— Napoleon Bonaparte</p>
-
-###
 
 <h2 align="left">Tech</h2>
 
